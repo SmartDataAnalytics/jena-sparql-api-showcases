@@ -11,7 +11,7 @@
 		<groupId>org.aksw.jena-sparql-api-showcase</groupId>
 		<artifactId>jena-sparql-api-showcase-parent</artifactId>
 		<!--< <artifactId>jena-sparql-api-mapper-parent</artifactId> -->
-		<version>3.12.0-1-SNAPSHOT</version>
+		<version>3.12.0-1</version>
 	</parent>
 
 	<dependencies>
